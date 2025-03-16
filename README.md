@@ -37,3 +37,4 @@ Format the charts for better visualization.
 
 # Output
 
+![Image](https://github.com/user-attachments/assets/b57ed0b4-6897-475d-b614-9b6f598f735b)
