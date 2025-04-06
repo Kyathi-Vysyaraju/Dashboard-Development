@@ -1,17 +1,5 @@
 # Dashboard-Development
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: Kyathi Vysyaraju
-
-*INTERN ID*: CT04WV85
-
-*DOMAIN*: DATA ANALYTICS
-
-*DURATION*: 4 WEEKS
-
-*MENTOR*: NEELA SANTOSH
-
 ## Description
 
 Built a dynamic dashboard to analyze sales data from Blinket.
